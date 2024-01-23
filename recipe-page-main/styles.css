@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap');
+
+
+
+* {
+    box-sizing: border-box;
+   
+}
+
+
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    background-color: hsl(330, 82%, 85%);
+    
+}
+
+
+
+.main-image-container {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+ .main-image {
+    height: 250px;
+    width: 500px;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 0.4rem;
+   
+ }
+
+
+.container {
+    background-color: #fff;
+    align-items: center;
+    border: 1px solid #fff;
+    border-radius: 0.4rem;
+    max-width: 60%;
+    margin: 60px auto;
+    padding: 20px
+    
+}
+
+
+.recipe-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(255, 34, 119);
+}
+
+.recipe-list li span {
+    font-weight: 600;;
+}
+
+
+.recipe-title-2, .recipe-title-3 , .recipe-title-4 {
+        font-size: 2.4rem;
+        font-weight: 600;
+        color: rgb(241, 79, 38)
+}
+
+
+.recipe-list-3 li span {
+    font-weight: 600;
+}
